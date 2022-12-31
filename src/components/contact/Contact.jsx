@@ -12,22 +12,11 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_khq4h2g', 'service_khq4h2g', form.current, 'QQMgqvgpKuaETFcBU')
+    emailjs.sendForm('service_khq4h2g', 'template_38pw6u9', form.current, 'xq1iWJNkKZ1YE0HH1')
 
     e.target.reset();
+    alert("Message was sent successfully")
   };
-
-  const [modal, setModal] = useState(false);
-
-  const toggleModal = () => {
-    setModal(!modal);
-  };
-
-  if(modal) {
-    document.body.classList.add('active-modal')
-  } else {
-    document.body.classList.remove('active-modal')
-  }
 
 
   return (
@@ -46,14 +35,13 @@ const Contact = () => {
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon' />
             <h4>Messenger</h4>
-            <h5>chjaeik11@gmail.com</h5>
-            <a href="mailto:chjaeik11@gmail.com" target='_blank'>Send a message</a>
+            <a href="https://m.me/allen.c.cho" target='_blank'>Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
-            <h5>chjaeik11@gmail.com</h5>
-            <a href="mailto:chjaeik11@gmail.com" target='_blank'>Send a message</a>
+            <h5>+1(647)8334510</h5>
+            <a href="https://api.whatsapp.com/send?phone=16478334510" target='_blank'>Send a message</a>
           </article>
         </div>
 

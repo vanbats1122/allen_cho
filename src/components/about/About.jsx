@@ -37,7 +37,7 @@ const About = () => {
           </div>
 
           <p>
-          After graduating high school in China, I moved to Toronto to study at University of Toronto. At the University of Toronto, I specialized in management and majored in finance. After succesfully completing the Bachelor degree program, I started learning about software engineering at Centennial College and Bootcamp. Through these programs, I was able to learn over 10 frontend and backend developing skills and create over 5 projects using the skills I newly attained.
+          I am a graduate of University of Toronto's Rotman School of Commerce with a major in finance and a specialization in management. I furthered my studies for software engineering at Centennial College and through various online bootcamps. Applying my newly acquired skills, I've created over 4 sample projects to showcase my frontend and backend developing skills. I am looking for opportunities to continue growing my skillset and to further challenge myself as a developer.
           </p>
 
           {/* <a href='#contact' className='btn btn-primary'>Let's Talk</a> */}
