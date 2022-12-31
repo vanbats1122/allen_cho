@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/allen_cho/static/css/main.66b8d3b9.css",
-    "main.js": "/allen_cho/static/js/main.7a53cef9.js",
+    "main.css": "/allen_cho/static/css/main.1e959af0.css",
+    "main.js": "/allen_cho/static/js/main.97099268.js",
     "static/media/project-1.png": "/allen_cho/static/media/project-1.caeb766ec0168ec724c0.png",
     "static/media/project-3.png": "/allen_cho/static/media/project-3.1c38e5eb1e2f27e25bed.png",
     "static/media/resume.pdf": "/allen_cho/static/media/resume.5f5d18409c4defa6c510.pdf",
@@ -10,11 +10,11 @@
     "static/media/project-4.png": "/allen_cho/static/media/project-4.fca575aef9fd3035ae3d.png",
     "static/media/hero-image.png": "/allen_cho/static/media/hero-image.cf0b43b7229962eb16e7.png",
     "index.html": "/allen_cho/index.html",
-    "main.66b8d3b9.css.map": "/allen_cho/static/css/main.66b8d3b9.css.map",
-    "main.7a53cef9.js.map": "/allen_cho/static/js/main.7a53cef9.js.map"
+    "main.1e959af0.css.map": "/allen_cho/static/css/main.1e959af0.css.map",
+    "main.97099268.js.map": "/allen_cho/static/js/main.97099268.js.map"
   },
   "entrypoints": [
-    "static/css/main.66b8d3b9.css",
-    "static/js/main.7a53cef9.js"
+    "static/css/main.1e959af0.css",
+    "static/js/main.97099268.js"
   ]
 }
